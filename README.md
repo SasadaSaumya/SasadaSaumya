@@ -2,6 +2,7 @@
 <h4 align="center">I'm a Software Engineer specializing in Java, with expertise in building modern, responsive websites using React JS, HTML/CSS, PHP, and JavaScript. I also develop mobile applications using React Native Expo. My passion for technology drives me to continuously improve my skills and contribute to projects that solve real-world problems.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasadasaumya&label=Profile%20views&color=0e75b6&style=flat" alt="sasadasaumya" /> </p>
+<p align="left"> <a href="https://twitter.com/sasadasaumya" target="blank"><img src="https://img.shields.io/twitter/follow/sasadasaumya?logo=twitter&style=for-the-badge" alt="sasadasaumya" /></a> </p>
 
 - 🔭 I’m currently working on **QR114 Mobile App**
 
