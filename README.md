@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SasadaSaumya](https://github.com/SasadaSaumya)
 
-- 📫 How to reach me **contact.sasanda@gmail.com**
+- 📫 How to reach me **sasandasaumya@gmail.com**
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
