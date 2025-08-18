@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://twitter.com/sasadasaumya" target="blank"><img src="https://img.shields.io/twitter/follow/sasadasaumya?logo=twitter&style=for-the-badge" alt="sasadasaumya" /></a> </p>
 
 
-- 🔭 I’m currently working on **IY Mart Mobile App**
+- 🔭 I’m currently working on **RIGID Mobile App**
 
 - 🌱 I’m currently learning **Spring Boot**
 
