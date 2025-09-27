@@ -4,7 +4,12 @@
 <h1 align="center">Hi 👋, I'm Sasanda Saumya</h1>
 <h4 align="center">I'm a Software Engineer specializing in Java, with expertise in building modern, responsive websites using React JS, HTML/CSS, PHP, and JavaScript. I also develop mobile applications using React Native Expo. My passion for technology drives me to continuously improve my skills and contribute to projects that solve real-world problems.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasadasaumya&label=Profile%20views&color=0e75b6&style=flat" alt="sasadasaumya" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasadasaumya&label=Profile%20views&color=0e75b6&style=flat" alt="sasadasaumya" /> </p> -->
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=sasadasaumya&color=brightgreen&base=1000&abbreviated=true&style=flat) ![Followers](https://img.shields.io/github/followers/sasadasaumya?label=Followers) ![Stars](https://img.shields.io/github/stars/sasadasaumya?label=Stars) ![Stars](https://img.shields.io/badge/Open_source-Hell_Yeah-brightgreen&style=flat) ![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2054%20mins-brightgreen) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+</br>
 
 <p align="center"> <a href="https://twitter.com/sasadasaumya" target="blank"><img src="https://img.shields.io/twitter/follow/sasadasaumya?logo=twitter&style=for-the-badge" alt="sasadasaumya" /></a> </p>
 
