@@ -12,7 +12,7 @@
 </br> 
  -->
 <p align="center"> <a href="https://twitter.com/sasadasaumya" target="blank"><img src="https://img.shields.io/twitter/follow/sasadasaumya?logo=twitter&style=for-the-badge" alt="sasadasaumya" /></a> </p>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z61XCVE9)
+<p align="center"> <a href="https://ko-fi.com/Z8Z61XCVE9" target="blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="sasadasaumya" /></a> </p>
 
 - 🔭 I’m currently working on **RIGID Mobile App**
 
